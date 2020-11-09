@@ -1,4 +1,6 @@
 print("Hello World!")
 input()
-print("GOOD BYE")
+print("BYE")
+input()
+print("thank you")
 input()
